@@ -1,0 +1,24 @@
+{
+    "message": "User registered successfully",
+    "user": {
+        "id": 1,
+        "email": "admin@example.com",
+        "full_name": "Admin User",
+        "role": "admin",
+        "created_at": "2026-05-18T16:11:51.533Z"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzc5MTIwNzExLCJleHAiOjE3NzkyMDcxMTF9.gjXgzNsrhxoIJ1IE7AEmDrK0l79DznLSrKIRLKtqqlI"
+}
+
+
+{
+    "message": "User registered successfully",
+    "user": {
+        "id": 2,
+        "email": "student@example.com",
+        "full_name": "Student User",
+        "role": "student",
+        "created_at": "2026-05-18T16:13:14.518Z"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Miwicm9sZSI6InN0dWRlbnQiLCJpYXQiOjE3NzkxMjA3OTQsImV4cCI6MTc3OTIwNzE5NH0.YHZVbwAJLSb8mLzov4gASzpklrMEBm5fSrr3lMmrFb8"
+}
